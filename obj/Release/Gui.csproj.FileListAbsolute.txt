@@ -1,0 +1,15 @@
+E:\MAKCUM\c#\Xz\yt_DesignUI\bin\Release\Gui.exe.config
+E:\MAKCUM\c#\Xz\yt_DesignUI\bin\Release\Gui.exe.manifest
+E:\MAKCUM\c#\Xz\yt_DesignUI\bin\Release\Gui.application
+E:\MAKCUM\c#\Xz\yt_DesignUI\bin\Release\Gui.exe
+E:\MAKCUM\c#\Xz\yt_DesignUI\bin\Release\Gui.pdb
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.csproj.AssemblyReference.cache
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.csproj.SuggestedBindingRedirects.cache
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.frmMain.resources
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.Properties.Resources.resources
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.csproj.GenerateResource.cache
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.csproj.CoreCompileInputs.cache
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.exe.manifest
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.application
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.exe
+E:\MAKCUM\c#\Xz\yt_DesignUI\obj\Release\Gui.pdb
